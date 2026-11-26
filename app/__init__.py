@@ -1,0 +1,1 @@
+"""Sparkdesk application package."""

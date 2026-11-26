@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+ideas.db
+ideas.db-journal
+ideas.db-shm
+ideas.db-wal
+data/*
+!data/.gitkeep
+!data/uploads/
+!data/uploads/images/
+!data/uploads/images/.gitkeep
+.pytest_cache/
+.DS_Store
